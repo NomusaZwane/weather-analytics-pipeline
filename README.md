@@ -42,5 +42,12 @@ A complete end-to-end ETL pipeline that processes live weather data from global 
 
 \## 📁 Project Structure
 
+# 🌤️ Real-Time Weather Analytics Pipeline
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
+![GitHub](https://img.shields.io/badge/GitHub-Open--Source-green.svg)
+![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
+A complete end-to-end ETL pipeline...
 
